@@ -11,5 +11,6 @@ I'm a Data Scientist with experience in research, analytics, and building robust
 - 📍 Based in Kolkata, India
 - 🎓 Educated at RKMVERI & Presidency University
 - 💡 Passionate about data, AI, and machine learning
+- 💡 Projects : 1. Mortgage Pipeline
 
 [About Me](about.md)
